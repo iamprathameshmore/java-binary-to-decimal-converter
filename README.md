@@ -69,7 +69,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 Here are a few examples of how to use the Java Binary to Decimal Converter:
 
 ```java
-String binaryInput = "1101";
+String binaryInput = "101010";
 int decimalOutput = BinaryToDecimalConverter.binaryToDecimal(binaryInput);
 System.out.println("Decimal: " + decimalOutput);
 ```
